@@ -8,7 +8,7 @@ const header = () => {
    <header className = {s['main-header']}>
       <section className = {s.header}>
         <article className={s['contenido-header']}>
-          <div className = {s['icono-menu-lateral-header icono-menu-lateral-wrapper hidden']}>
+          <div className = {s['icono-menu-lateral-header icono-menu-lateral-wrapper hidden']} >
             <img className = {s['icono-menu-lateral']} src = '/assets/icons/header/menu.svg' alt = 'menu lateral' />
           </div>
 

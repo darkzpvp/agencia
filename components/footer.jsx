@@ -87,7 +87,7 @@ const footer = () => {
 
             <div className = {s['logo-wrapper-footer']}>
               <a href = 'index.html'>
-                <img className = {s['logo']} src = 'assets/img/logo/logo.png' alt = 'logo' />
+                <img className = {s['logo']} src = '/assets/img/logo/logo.png' alt = 'logo' />
               </a>
             </div>
 
@@ -97,19 +97,19 @@ const footer = () => {
               <h4>Síguenos en:</h4>
               <div className = {s['redes-sociales-iconos']}>
                 <div className = {s['twitter-wrapper']}>
-                  <img className = {s['icono-social-footer']} src = 'assets/icons/socials/twitter.svg' alt = 'twitter' />
+                  <img className = {s['icono-social-footer']} src = '/assets/icons/socials/twitter.svg' alt = 'twitter' />
                 </div>
                 <div className = {s['instagram-wrapper']}>
-                  <img className = {s['icono-social-footer']} src = 'assets/icons/socials/instagram.svg' alt = 'instagram' />
+                  <img className = {s['icono-social-footer']} src = '/assets/icons/socials/instagram.svg' alt = 'instagram' />
                 </div>
                 <div className = {s['youtube-wrapper']}>
-                  <img className = {s['icono-social-footer']} src = 'assets/icons/socials/youtube.svg' alt = 'youtube' />
+                  <img className = {s['icono-social-footer']} src = '/assets/icons/socials/youtube.svg' alt = 'youtube' />
                 </div>
                 <div className = {s['tiktok-wrapper']}>
-                  <img className = {s['icono-social-footer']} src = 'assets/icons/socials/tiktok.svg' alt = 'tiktok' />
+                  <img className = {s['icono-social-footer']} src = '/assets/icons/socials/tiktok.svg' alt = 'tiktok' />
                 </div>
                 <div className = {s['facebook-wrapper']}>
-                  <img className = {s['icono-social-footer']} src = 'assets/icons/socials/facebook.svg' alt = 'facebook' />
+                  <img className = {s['icono-social-footer']} src = '/assets/icons/socials/facebook.svg' alt = 'facebook' />
                 </div>
               </div>
             </div>
